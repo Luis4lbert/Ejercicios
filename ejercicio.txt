@@ -19,3 +19,7 @@ Al final, muestra la contraseña y si es o no fuerte (usa el bucle anterior). Usa
 contraseña1 valor_booleano1
 
 contraseña2 valor_bololeano2
+
+
+
+Esta es una prueba para modificar el archivo
